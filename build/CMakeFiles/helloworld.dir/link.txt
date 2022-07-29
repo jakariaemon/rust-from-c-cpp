@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/helloworld.dir/main.cpp.o -o helloworld  test-lib/x86_64-unknown-linux-gnu/debug/libtest_lib.a -ldl -lpthread 
